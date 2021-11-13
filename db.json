@@ -1,0 +1,52 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "title": "React.js Desde Cero (2019)",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg",
+            "price": 35,
+            "professor": "Beto Quiroga",
+            "prof_image": "https://edteam-media.s3.amazonaws.com/users/thumbnail/c3e463c6-8c4f-415e-b4c4-a2e283d9a205.png"
+          },
+          {
+            "id": 2,
+            "title": "JavaScript desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/61e5a210-8dab-412e-a6dc-802c070cc18c.jpg",
+            "price": 24,
+            "professor": "Beto Quiroga",
+            "prof_image": "https://edteam-media.s3.amazonaws.com/users/thumbnail/c3e463c6-8c4f-415e-b4c4-a2e283d9a205.png"
+          },
+          {
+            "id": 3,
+            "title": "CSS desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/daa72e4e-c5d0-406e-9f6d-01e646bf719b.png",
+            "price": 32,
+            "professor": "Alvaro Martinez",
+            "prof_image": "https://edteam-media.s3.amazonaws.com/users/avatar/8e0b61dd-6fb6-43e5-9028-525d9f060b64.jfif"
+          },
+          {
+            "id": 4,
+            "title": "GraphQL desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/7fd29763-c6b4-4a98-951b-65a5b26b8aaa.png",
+            "price": 40,
+            "professor": "Josh Ospina Tafur",
+            "prof_image": "https://edteam-media.s3.amazonaws.com/users/thumbnail/c01ab318-fed5-40eb-8e78-1fe245f85fea.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Dart desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/9e541efb-1c68-4252-ba2c-f57691a743a1.png",
+            "price": 44,
+            "professor": "José Dimas Luján",
+            "prof_image": "https://edteam-media.s3.amazonaws.com/users/thumbnail/eaf5a6d1-71a4-4b58-96d6-c895fc5159e3.jpeg"
+          },
+          {
+            "id": 6,
+            "title": "Desarrollo web con Django",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/b168e27b-1743-459f-a89b-f2f98917f184.png",
+            "price": 20,
+            "professor": "Alvaro Martinez",
+            "prof_image": "https://edteam-media.s3.amazonaws.com/users/avatar/8e0b61dd-6fb6-43e5-9028-525d9f060b64.jfif"
+          }
+    ]
+}
